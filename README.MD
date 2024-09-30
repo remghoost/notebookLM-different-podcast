@@ -27,6 +27,8 @@ We're using [Gemini Pro notes.md](<template/Gemini Pro notes.md>) to *try* and d
 
 And we're using [References.md](template/References.md) to direct the podcast where to pull information from.
 
+Obviously, don't include the README.md files. Those are just for github.
+
 ---
 
 You can probably feed these into ChatGPT to get it to rewrite them for your needs (that's pretty much what I've been doing).
