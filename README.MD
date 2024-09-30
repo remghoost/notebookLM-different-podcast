@@ -6,9 +6,10 @@ This is not intended to be a guide, more of a jumping off point and proof of con
 
 Here's an example of one of the podcasts. It's not perfect, but it's definitely a step in the right direction. More "story-based" and a directed podcast, not a general overview.
 
-<audio controls src="_resources/Untitled notebook(22)(GOOD).wav" title="Title"></audio>
+[![video](https://img.youtube.com/vi/r8Pj5Ji6vt8/0.jpg)](https://youtu.be/r8Pj5Ji6vt8)
 
-This was generated using the files in [single female host WIP](<single female host WIP>). Mostly. I think I've made a few changes since then though, so keep that in mind.
+This was generated using the files in [single female host WIP](<single female host WIP>). 
+Mostly. I think I've made a few changes since then though, so keep that in mind.
 
 ---
 
